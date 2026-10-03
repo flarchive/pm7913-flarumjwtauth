@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of pm7913/flarumjwtauth.** Not for installation: use [Packagist](https://packagist.org/packages/pm7913/flarumjwtauth) or the [upstream repository](https://github.com/pm7913/flarum-jwt-auth).
 
-**0** versions archived · Latest: [`v1.4`](https://github.com/flarchive/pm7913-flarumjwtauth/tree/archive/v1.4) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**5** versions archived · Latest: [`v1.4`](https://github.com/flarchive/pm7913-flarumjwtauth/tree/archive/v1.4) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2020-09-02 | `^0.1.0` | [Browse](https://github.com/flarchive/pm7913-flarumjwtauth/tree/archive/v1.0) |
+| `v1.1` | 2020-09-02 | `^0.1.0` | [Browse](https://github.com/flarchive/pm7913-flarumjwtauth/tree/archive/v1.1) |
+| `v1.2` | 2020-09-02 | `^0.1.0` | [Browse](https://github.com/flarchive/pm7913-flarumjwtauth/tree/archive/v1.2) |
+| `v1.3` | 2020-09-03 | `^0.1.0` | [Browse](https://github.com/flarchive/pm7913-flarumjwtauth/tree/archive/v1.3) |
+| `v1.4` | 2020-09-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/pm7913-flarumjwtauth/tree/archive/v1.4) |
 
 Catalog entry: [packages/pm7913-flarumjwtauth.json](https://github.com/flarchive/archive-index/blob/main/packages/pm7913-flarumjwtauth.json)
 
